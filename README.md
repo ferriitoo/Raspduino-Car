@@ -50,7 +50,7 @@ Certainly! I've organized the images of each block into the same horizontal line
 
 # ***_Raspberry Pi & Arduino: best of both worlds_***
 
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180623.jpg" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180659.jpg" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_185021_256.JPG" width="500"/>
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_185021_256.JPG" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180659.jpg" width="500"/> 
 
 ---
 
