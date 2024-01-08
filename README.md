@@ -58,7 +58,7 @@ Certainly! I've organized the images of each block into the same horizontal line
 # ***_Sensors & Peripherals_***
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_233335-1.jpg" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_234055_561.JPG" width="500"/>
 
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_185637.jpg" width="500"/>
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_185637.jpg" width="1000"/>
 
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182619.jpg" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182625.jpg" width="500"/> 
 
