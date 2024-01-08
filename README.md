@@ -66,7 +66,9 @@ Certainly! I've organized the images of each block into the same horizontal line
 
 # ***_New frame_***
 
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182659.jpg" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182723.jpg" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182725.jpg" height="600"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182727.jpg" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182739.jpg" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182744.jpg" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_234117_467.JPG" width="500"/>
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182659.jpg" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182723.jpg" width="500"/> 
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182725.jpg" height="600"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182727.jpg" width="500"/> 
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182739.jpg" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_234117_467.JPG" width="500"/>
 
 --- 
 
