@@ -20,7 +20,7 @@ Explore the repository and witness the fusion of technology and imagination! ðŸŒ
 
 Certainly! Here's the updated set of images with a specified height of 600 pixels for all:
 
-```markdown
+
 # ***_First Steps_***
 
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_232741_919.JPG" height="600"/>
@@ -95,4 +95,4 @@ Certainly! Here's the updated set of images with a specified height of 600 pixel
 
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_232325.jpg" height="600"/>
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_232357-1.jpg" height="600"/>
-```
+
