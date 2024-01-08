@@ -18,7 +18,22 @@ Behold, the creation of a Wi-Fi controlled car! Initially, I set out with just R
 
 Explore the repository and witness the fusion of technology and imagination! ğŸŒğŸ¤–
 
+
+# ***_Old toy frame_***
+
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_233518_179.JPG"/>
+
 ---
+
+# ***_First Steps_***
+
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_232741_919.JPG"/>
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170302_000133_372.JPG"/>
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170302_000152_800.JPG"/>
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170302_125153_696.JPG"/>
+
+---
+
 # ***_Raspberry Pi_***
 
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180357.jpg"/>
@@ -54,12 +69,6 @@ Explore the repository and witness the fusion of technology and imagination! ğŸŒ
 
 ---
 
-# ***_Old toy frame_***
-
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_233518_179.JPG"/>
-
----
-
 # ***_New frame_***
 
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182659.jpg"/>
@@ -71,15 +80,6 @@ Explore the repository and witness the fusion of technology and imagination! ğŸŒ
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_234117_467.JPG"/>
 
 --- 
-
-# ***_First Steps_***
-
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_232741_919.JPG"/>
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170302_000133_372.JPG"/>
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170302_000152_800.JPG"/>
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170302_125153_696.JPG"/>
-
----
 
 # ***_User Experience (UX)_***
 
