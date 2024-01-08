@@ -22,50 +22,45 @@ Explore the repository and witness the fusion of technology and imagination! ðŸŒ
 # ***_Raspberry Pi_***
 
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180357.jpg"/>
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_184340_278.JPG"/>
 
 ---
 
 # ***_Arduino & Motor Driver board_***
 
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_175949.jpg"/>
-
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180429.jpg"/>
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180444.jpg"/>
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180512.jpg"/>
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_184625_993.JPG"/>
 
 ---
 
 # ***_Raspberry Pi & Arduino: best of both worlds_***
 
-
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180623.jpg"/>
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180659.jpg"/>
-
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_185021_256.JPG"/>
 
 ---
 
 # ***_Sensors & Peripherals_***
 
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_185637.jpg"/>
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_233335-1.jpg"/>
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182619.jpg"/>
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182625.jpg"/>
-
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_234055_561.JPG"/>
 
 ---
 
 # ***_Old toy frame_***
 
----
-
-# ***_First Steps_***
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_233518_179.JPG"/>
 
 ---
 
-# ***_User Experience (UX)_***
-
----
-
-# ***_Arduino_***
-
+# ***_New frame_***
 
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182659.jpg"/>
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182723.jpg"/>
@@ -73,20 +68,28 @@ Explore the repository and witness the fusion of technology and imagination! ðŸŒ
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182727.jpg"/>
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182739.jpg"/>
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182744.jpg"/>
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_185637.jpg"/>
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_232146-1.jpg"/>
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_232325.jpg"/>
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_232357-1.jpg"/>
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_233335-1.jpg"/>
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_184340_278.JPG"/>
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_184625_993.JPG"/>
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_185021_256.JPG"/>
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_232741_919.JPG"/>
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_233518_179.JPG"/>
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_234055_561.JPG"/>
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_234117_467.JPG"/>
+
+--- 
+
+# ***_First Steps_***
+
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_232741_919.JPG"/>
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170302_000133_372.JPG"/>
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170302_000152_800.JPG"/>
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170302_125153_696.JPG"/>
+
+---
+
+# ***_User Experience (UX)_***
+
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_232146-1.jpg"/>
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/Screenshot_2017-02-21-18-57-24.png"/>
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/Screenshot_2017-03-03-00-19-04.png"/>
+
+---
+
+# ***_Final Version_***
+
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_232325.jpg"/>
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_232357-1.jpg"/>
