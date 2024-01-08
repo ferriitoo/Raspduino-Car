@@ -27,7 +27,7 @@ Certainly! I've organized the images of each block into the same horizontal line
 # ***_First Steps_***
 
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_232741_919.JPG" height="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170302_000133_372.JPG" height="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170302_000152_800.JPG" height="500"/> 
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170302_125153_696.JPG" width="900"/>
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170302_125153_696.JPG" width="870"/>
 
 ---
 
