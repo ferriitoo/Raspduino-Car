@@ -20,11 +20,23 @@ Explore the repository and witness the fusion of technology and imagination! ðŸŒ
 
 ---
 # ***_Raspberry Pi_***
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_175949.jpg"/>
+
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180357.jpg"/>
 
 ---
 
-# ***_Arduino_***
+# ***_Arduino & Motor Driver board_***
+
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_175949.jpg"/>
+
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180429.jpg"/>
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180444.jpg"/>
+
+---
+
+# ***_Raspberry Pi & Arduino: best of both worlds_***
+
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180512.jpg"/>
 
 ---
 
@@ -42,10 +54,6 @@ Explore the repository and witness the fusion of technology and imagination! ðŸŒ
 
 # ***_Arduino_***
 
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180357.jpg"/>
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180429.jpg"/>
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180444.jpg"/>
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180512.jpg"/>
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180623.jpg"/>
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180659.jpg"/>
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182619.jpg"/>
