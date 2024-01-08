@@ -68,7 +68,8 @@ Certainly! I've organized the images of each block into the same horizontal line
 
 # ***_User Experience (UX)_***
 
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_232146-1.jpg" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/Screenshot_2017-02-21-18-57-24.png" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/Screenshot_2017-03-03-00-19-04.png" width="500"/>
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/Screenshot_2017-02-21-18-57-24.png" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/Screenshot_2017-03-03-00-19-04.png" width="500"/>
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_232146-1.jpg" width="500"/> 
 
 ---
 
