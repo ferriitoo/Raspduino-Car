@@ -1,17 +1,18 @@
-Author: Julen Ferro 🚗
+***Author: Julen Ferro 🚗***
 
-Raspduino-Car 🛠️
-A DIY adventure featuring a Car crafted with Raspberry Pi and Arduino.
+# ***_Raspduino-Car_*** 🛠️
 
-📁 #Repository Overview:
+A ***_DIY adventure_*** featuring a Car crafted with Raspberry Pi and Arduino.
+
+📁 ***_Repository Overview:_***
 
 Inside this repository, you'll discover the source code of my inaugural DIY project.
 
-🎓 Project Genesis:
+🎓 ***_Project Genesis:_***
 
 Encouraged by my institute's teachers to align a project with my engineering studies, I delved into the realms of robotics and programming with Raspberry Pi, Arduino, and other electronic boards. Fueled by boundless imagination and curiosity, I decided to embark on this exciting journey.
 
-🚗 The Wi-Fi Odyssey:
+🚗 ***_The Wi-Fi Odyssey:_***
 
 Behold, the creation of a Wi-Fi controlled car! Initially, I set out with just Raspberry Pi, but as the project unfolded, I incorporated Arduino for control. The user experience (UX) was shaped with RaspberryPi, serving as both the Web Server and Wi-Fi Access Point-Hot Spot (AP). It became the vital bridge connecting the user to the robot.
 
