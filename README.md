@@ -38,7 +38,7 @@ Certainly! I've organized the images of each block into the same horizontal line
 
 # ***_Raspberry Pi_***
 
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180357.jpg" width="600"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_184340_278.JPG" width="600"/>
+<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180357.jpg" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_184340_278.JPG" width="500"/>
 
 ---
 
