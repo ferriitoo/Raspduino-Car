@@ -1,12 +1,22 @@
-Author: Julen Ferro
-# Raspduino-Car
-DIY Car built with Raspberry Pi and Arduino
+Author: Julen Ferro 🚗
 
-In this repository you will find the source code of my first DIY project.
+Raspduino-Car 🛠️
+A DIY adventure featuring a Car crafted with Raspberry Pi and Arduino.
 
-Teachers of my institute asked me to develop a project related to whatever I was planning to study, engineering in my case. I was very interested in areas related to robotics, learning to program with Raspberry Pi, Arduino and some other electronic boards. Do I decided to give free rein to my imagination and see how far I could go by embarking in this journey powered by my imagination and curiosity. 
+📁 Repository Overview:
 
-I built a Wi-Fi controlled Car. I first started just with Raspberry Pi, and later I decided to develop the control part of my project with Arduino and the UX part of it with RaspberryPi, being RaspberryPi´s Web Server and Wi-Fi Access Point-Hot Spot (AP) a bridge between the user and the robot.
+Inside this repository, you'll discover the source code of my inaugural DIY project.
+
+🎓 Project Genesis:
+
+Encouraged by my institute's teachers to align a project with my engineering studies, I delved into the realms of robotics and programming with Raspberry Pi, Arduino, and other electronic boards. Fueled by boundless imagination and curiosity, I decided to embark on this exciting journey.
+
+🚗 The Wi-Fi Odyssey:
+
+Behold, the creation of a Wi-Fi controlled car! Initially, I set out with just Raspberry Pi, but as the project unfolded, I incorporated Arduino for control. The user experience (UX) was shaped with RaspberryPi, serving as both the Web Server and Wi-Fi Access Point-Hot Spot (AP). It became the vital bridge connecting the user to the robot.
+
+Explore the repository and witness the fusion of technology and imagination! 🌐🤖
+
 
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_175949.jpg"/>
 <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180357.jpg"/>
