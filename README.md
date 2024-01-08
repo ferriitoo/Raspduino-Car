@@ -3,7 +3,7 @@ Author: Julen Ferro 🚗
 Raspduino-Car 🛠️
 A DIY adventure featuring a Car crafted with Raspberry Pi and Arduino.
 
-📁 Repository Overview:
+📁 #Repository Overview:
 
 Inside this repository, you'll discover the source code of my inaugural DIY project.
 
