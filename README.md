@@ -51,34 +51,49 @@ Certainly! I've organized the images of each block into the same horizontal line
 
 # ***_Raspberry Pi & Arduino: best of both worlds_***
 
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_185021_256.JPG" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180659.jpg" width="500"/> 
+<div style="display: flex; justify-content: space-between;">
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_185021_256.JPG" width="500"/> 
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180659.jpg" width="500"/> 
+</div>
 
 ---
 
 # ***_Sensors & Peripherals_***
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_233335-1.jpg" width="400"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_234055_561.JPG" width="500"/>
 
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_185637.jpg" width="1000"/>
-
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182619.jpg" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182625.jpg" width="500"/> 
-
+<div style="display: flex; justify-content: space-between;">
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_233335-1.jpg" width="400"/> 
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_234055_561.JPG" width="500"/>
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_185637.jpg" width="1000"/>
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182619.jpg" width="500"/> 
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182625.jpg" width="500"/> 
+</div>
 ---
 
 # ***_New frame_***
 
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182659.jpg" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182723.jpg" width="500"/> 
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182725.jpg" height="600"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182727.jpg" width="500"/> 
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182739.jpg" width="500"/> 
+<div style="display: flex; justify-content: space-between;">
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182659.jpg" width="500"/> 
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182723.jpg" width="500"/> 
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182725.jpg" height="600"/> 
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182727.jpg" width="500"/> 
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182739.jpg" width="500"/> 
+<div>
 
 --- 
 
 # ***_User Experience (UX)_***
 
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/Screenshot_2017-02-21-18-57-24.png" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/Screenshot_2017-03-03-00-19-04.png" width="500"/>
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_232146-1.jpg" width="500"/> 
+<div style="display: flex; justify-content: space-between;">
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/Screenshot_2017-02-21-18-57-24.png" width="500"/> 
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/Screenshot_2017-03-03-00-19-04.png" width="500"/>
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_232146-1.jpg" width="500"/> 
+<div>
 
 ---
 
 # ***_Final Version_***
 
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_232325.jpg" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_232357-1.jpg" width="500"/>
+<div style="display: flex; justify-content: space-between;">
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_232325.jpg" width="500"/> 
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170302_232357-1.jpg" width="500"/>
+</div>
