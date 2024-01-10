@@ -26,26 +26,39 @@ Certainly! I've organized the images of each block into the same horizontal line
 
 # ***_First Steps_***
 
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_232741_919.JPG" height="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170302_000133_372.JPG" height="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170302_000152_800.JPG" height="500"/> 
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170302_125153_696.JPG" width="867"/>
+<div style="display: flex; justify-content: space-between;">
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_232741_919.JPG" height="500"/> 
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170302_000133_372.JPG" height="500"/> 
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170302_000152_800.JPG" height="500"/> 
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170302_125153_696.JPG" width="867"/>
+</div>
 
 ---
 
 # ***_Old toy frame_***
 
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_233518_179.JPG" height="450"/>
+<div style="display: flex; justify-content: space-between;">
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_233518_179.JPG" height="450"/>
+</div>
 
 ---
 
 # ***_Raspberry Pi_***
 
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180357.jpg" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_184340_278.JPG" width="500"/>
-
+<div style="display: flex; justify-content: space-between;">
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180357.jpg" width="500"/> 
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/IMG_20170221_184340_278.JPG" width="500"/>
+</div>
 ---
 
 # ***_Arduino & Motor Driver board_***
 
-<img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_175949.jpg" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180429.jpg" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180444.jpg" width="500"/> <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180512.jpg" width="500"/> 
+<div style="display: flex; justify-content: space-between;">
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_175949.jpg" width="500"/> 
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180429.jpg" width="500"/> 
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180444.jpg" width="500"/> 
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_180512.jpg" width="500"/> 
+</div>
 
 ---
 
