@@ -87,7 +87,7 @@ Certainly! I've organized the images of each block into the same horizontal line
 <div style="display: flex; justify-content: space-between;">
         <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182659.jpg" width="500"/> 
         <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182723.jpg" width="500"/> 
-        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182725.jpg" height="600"/> 
+        <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182725.jpg" height="1000"/> 
         <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182727.jpg" width="500"/> 
         <img src="https://github.com/ferriitoo/Raspduino-Car/blob/master/Argazkiak/20170221_182739.jpg" width="500"/> 
 <div>
